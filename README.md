@@ -4,4 +4,4 @@
 
 ## Notebook
 
-[Notebook](https://github.com/mizu-bai/Factory-Method-Pattern/blob/main/factory-method-pattern.ipynb)
+[工程方法模式](https://github.com/mizu-bai/Factory-Method-Pattern/blob/main/factory-method-pattern.ipynb)
