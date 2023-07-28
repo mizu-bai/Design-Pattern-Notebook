@@ -1,6 +1,6 @@
 # Factory-Method-Pattern
 
-周会上讲工厂方法模式的 Notebook
+工厂方法模式的 Notebook
 
 ## Notebook
 
